@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prabhakar-wadatkar
 - 👀 I’m interested in Android & PHP
-- 🌱 I’m currently learning Android
+- 🌱 I’m currently learning Android developement
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
